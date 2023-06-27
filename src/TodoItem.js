@@ -41,6 +41,7 @@ function TodoItem({ todo, onUpdate, onDelete, onComplete }) {
             >
               {todo.title}
             </span>
+            
 
           </div>
         )}
